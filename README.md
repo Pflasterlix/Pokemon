@@ -29,3 +29,5 @@ Das Spiel verwendet Klassen für Pokémon, Angriffsattacken und Status-Attacken.
 Führe das Skript in einer Node.js-Umgebung aus, befolge die Anweisungen in der Konsole und genieße das Spiel!
 
 # Viel Spaß! 
+
+[pokemon.webm](https://github.com/Pflasterlix/Pokemon/assets/135116915/fe6678cb-a2c7-42e9-ba56-0f60e6f64a87)
